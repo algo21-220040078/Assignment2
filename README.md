@@ -45,5 +45,12 @@ If the stock price goes down more than 2N, sell all the position.
 Stop Profit
 -
 System1: When the stock price goes below the lowest price among 10 days, sell all the position.
-
 System2: Change 10 into 20 for system 1
+
+Technique
+-
+Start with two ratios: 0.8 and 0.9. When the proportion of lost funds to total funds after the end of the transaction is greater than 0.9, only 90 percent of existing investment funds will be used in the future.
+
+Backtest
+==
+![image](https://user-images.githubusercontent.com/80868998/118041742-c28e1800-b3a5-11eb-924d-0611cef5d656.png)
