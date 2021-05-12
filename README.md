@@ -12,7 +12,9 @@ Trading Strategy
 Stock
 -
 I select the representative stock——Sanqi Interactive Entertainment(601318). It has mid-term trend for these years.
+
 Position
 -
 True range
 ![image](https://user-images.githubusercontent.com/80868998/118040635-61b21000-b3a4-11eb-8b59-454676df514b.png)
+H is the highest price on that day; L is the lowest price; PDC is the close price on the day before. 
