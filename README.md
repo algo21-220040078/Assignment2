@@ -40,3 +40,10 @@ Change 20 days of System1 into 55.
 
 Stop Loss
 -
+If the stock price goes down more than 2N, sell all the position.
+
+Stop Profit
+-
+System1: When the stock price goes below the lowest price among 10 days, sell all the position.
+
+System2: Change 10 into 20 for system 1
