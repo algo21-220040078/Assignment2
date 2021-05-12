@@ -28,14 +28,15 @@ N can be calculated as the following equation.
 ![image](https://user-images.githubusercontent.com/80868998/118040940-c9685b00-b3a4-11eb-813b-9b35711bd0cf.png)
 
 Position Taking
-==
-System 1
 -
+System 1
+
 Buy a Unit position if current prices are above the highest in the last 20 days.
 Add Position: If the stock price rises 0.5N, then we buy one unit.
 
 System 2
--
+
 Change 20 days of System1 into 55.
 
 Stop Loss
+-
